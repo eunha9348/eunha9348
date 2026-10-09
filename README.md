@@ -2,7 +2,7 @@
 
 # 윤지호 · Yun Jiho
 
-**AI 에이전트를 만들고, 제품으로 끝까지 가져가는 PM · AI Developer**
+**AI 에이전트를 만들고, 제품으로 End to End 검증까지, PM · AI Developer**
 
 고려대학교 컴퓨터학과 · 공공거버넌스와리더십 이중전공
 [ARC (story-arc.org)](https://story-arc.org) PM & AI Developer
