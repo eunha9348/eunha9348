@@ -87,7 +87,7 @@ PM으로 제품 방향과 일정을 이끌고, AI 개발자로 경험 분석·�
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=eunha9348&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eunha9348&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunha9348&layout=compact&hide_border=true" />
 
 </div>
