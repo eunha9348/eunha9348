@@ -25,7 +25,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 [연금 Agent](https://github.com/eunha9348/Pension-Agent) — 제10회 미래에셋증권 AI Festival 출품
+### 🏦 [연금 Agent](https://github.com/eunha9348/Pension-Agent) 
 자연어 연금 질의를 **제공 문서 근거로만** 조회·분석·설명하는 AI 에이전트
 `FastAPI` `HyperCLOVA X` `BM25 Hybrid Retrieval` `Docker` · 테스트 1,400+개 · API 엔드포인트 배포
 
