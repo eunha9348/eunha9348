@@ -57,7 +57,7 @@
 **AI / LLM**
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://claude.ai/)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![HyperCLOVA X](https://img.shields.io/badge/HyperCLOVA%20X-03C75A?style=flat-square&logo=naver&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20·%20Multi--Agent-555555?style=flat-square)
 
